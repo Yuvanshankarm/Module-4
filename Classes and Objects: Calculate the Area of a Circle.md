@@ -12,7 +12,7 @@ To write a Python program that calculates the **area of a circle** based on the 
 
 ## 🧾 Program
 
-```
+```py
 import math
 class Saveetha:
     def __init__(self, r):
